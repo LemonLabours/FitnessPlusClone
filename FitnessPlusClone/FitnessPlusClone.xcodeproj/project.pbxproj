@@ -19,7 +19,6 @@
 		A9D79D652A1CAFAB0085E525 /* PersonalizeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D642A1CAFAB0085E525 /* PersonalizeView.swift */; };
 		A9D79D672A1CC4440085E525 /* WorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D662A1CC4440085E525 /* WorkoutView.swift */; };
 		A9D79D692A1CC4670085E525 /* TrendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D682A1CC4670085E525 /* TrendView.swift */; };
-		A9D79D792A1CD7450085E525 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9D79D782A1CD7450085E525 /* Assets.xcassets */; };
 		A9D79D7B2A1DA4B30085E525 /* FitnessComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7A2A1DA4B30085E525 /* FitnessComponent.swift */; };
 		A9D79D7D2A1DA4BF0085E525 /* Scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7C2A1DA4BF0085E525 /* Scroll.swift */; };
 		A9D79D7F2A1DA4C80085E525 /* Scroll1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7E2A1DA4C80085E525 /* Scroll1.swift */; };
@@ -43,7 +42,6 @@
 		A9D79D642A1CAFAB0085E525 /* PersonalizeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalizeView.swift; sourceTree = "<group>"; };
 		A9D79D662A1CC4440085E525 /* WorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutView.swift; sourceTree = "<group>"; };
 		A9D79D682A1CC4670085E525 /* TrendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendView.swift; sourceTree = "<group>"; };
-		A9D79D782A1CD7450085E525 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/AppIcons-2 2/Assets.xcassets"; sourceTree = "<group>"; };
 		A9D79D7A2A1DA4B30085E525 /* FitnessComponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FitnessComponent.swift; sourceTree = "<group>"; };
 		A9D79D7C2A1DA4BF0085E525 /* Scroll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll.swift; sourceTree = "<group>"; };
 		A9D79D7E2A1DA4C80085E525 /* Scroll1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll1.swift; sourceTree = "<group>"; };
@@ -86,7 +84,6 @@
 				A9D79D432A1C5F020085E525 /* FitnessPlusCloneApp.swift */,
 				A9D79D452A1C5F020085E525 /* ContentView.swift */,
 				A9D79D472A1C5F030085E525 /* Assets.xcassets */,
-				A9D79D782A1CD7450085E525 /* Assets.xcassets */,
 				A9D79D492A1C5F030085E525 /* Preview Content */,
 			);
 			path = FitnessPlusClone;
@@ -243,7 +240,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9D79D4B2A1C5F030085E525 /* Preview Assets.xcassets in Resources */,
-				A9D79D792A1CD7450085E525 /* Assets.xcassets in Resources */,
 				A9D79D482A1C5F030085E525 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
