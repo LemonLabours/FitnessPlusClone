@@ -6,5 +6,5 @@ extension Color {
     static let FPLighterPink = Color("FPLighterPink")
     static let FPBlue = Color("FPBlue")
     static let FPTif = Color("FPTif")
-
+    static let FPBlack = Color("FPBlack")
 }

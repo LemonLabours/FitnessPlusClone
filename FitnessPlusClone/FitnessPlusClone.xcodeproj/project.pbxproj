@@ -15,6 +15,18 @@
 		A9D79D582A1C73EC0085E525 /* SharingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D572A1C73EC0085E525 /* SharingView.swift */; };
 		A9D79D5A2A1C74000085E525 /* FitnessPlusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D592A1C74000085E525 /* FitnessPlusView.swift */; };
 		A9D79D5C2A1C740F0085E525 /* SummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D5B2A1C740F0085E525 /* SummaryView.swift */; };
+		A9D79D632A1CA5730085E525 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D622A1CA5730085E525 /* WelcomeView.swift */; };
+		A9D79D652A1CAFAB0085E525 /* PersonalizeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D642A1CAFAB0085E525 /* PersonalizeView.swift */; };
+		A9D79D672A1CC4440085E525 /* WorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D662A1CC4440085E525 /* WorkoutView.swift */; };
+		A9D79D692A1CC4670085E525 /* TrendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D682A1CC4670085E525 /* TrendView.swift */; };
+		A9D79D792A1CD7450085E525 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9D79D782A1CD7450085E525 /* Assets.xcassets */; };
+		A9D79D7B2A1DA4B30085E525 /* FitnessComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7A2A1DA4B30085E525 /* FitnessComponent.swift */; };
+		A9D79D7D2A1DA4BF0085E525 /* Scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7C2A1DA4BF0085E525 /* Scroll.swift */; };
+		A9D79D7F2A1DA4C80085E525 /* Scroll1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D7E2A1DA4C80085E525 /* Scroll1.swift */; };
+		A9D79D812A1DA4D00085E525 /* Scroll2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D802A1DA4D00085E525 /* Scroll2.swift */; };
+		A9D79D832A1DA4D90085E525 /* Scroll3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D822A1DA4D90085E525 /* Scroll3.swift */; };
+		A9D79D852A1DA4E20085E525 /* Scroll4.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D79D842A1DA4E20085E525 /* Scroll4.swift */; };
+		A9D79D8B2A1DACB30085E525 /* YouTubePlayerKit in Frameworks */ = {isa = PBXBuildFile; productRef = A9D79D8A2A1DACB30085E525 /* YouTubePlayerKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +39,17 @@
 		A9D79D572A1C73EC0085E525 /* SharingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharingView.swift; sourceTree = "<group>"; };
 		A9D79D592A1C74000085E525 /* FitnessPlusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessPlusView.swift; sourceTree = "<group>"; };
 		A9D79D5B2A1C740F0085E525 /* SummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryView.swift; sourceTree = "<group>"; };
+		A9D79D622A1CA5730085E525 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		A9D79D642A1CAFAB0085E525 /* PersonalizeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalizeView.swift; sourceTree = "<group>"; };
+		A9D79D662A1CC4440085E525 /* WorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutView.swift; sourceTree = "<group>"; };
+		A9D79D682A1CC4670085E525 /* TrendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendView.swift; sourceTree = "<group>"; };
+		A9D79D782A1CD7450085E525 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/AppIcons-2 2/Assets.xcassets"; sourceTree = "<group>"; };
+		A9D79D7A2A1DA4B30085E525 /* FitnessComponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FitnessComponent.swift; sourceTree = "<group>"; };
+		A9D79D7C2A1DA4BF0085E525 /* Scroll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll.swift; sourceTree = "<group>"; };
+		A9D79D7E2A1DA4C80085E525 /* Scroll1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll1.swift; sourceTree = "<group>"; };
+		A9D79D802A1DA4D00085E525 /* Scroll2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll2.swift; sourceTree = "<group>"; };
+		A9D79D822A1DA4D90085E525 /* Scroll3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll3.swift; sourceTree = "<group>"; };
+		A9D79D842A1DA4E20085E525 /* Scroll4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scroll4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9D79D8B2A1DACB30085E525 /* YouTubePlayerKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +86,7 @@
 				A9D79D432A1C5F020085E525 /* FitnessPlusCloneApp.swift */,
 				A9D79D452A1C5F020085E525 /* ContentView.swift */,
 				A9D79D472A1C5F030085E525 /* Assets.xcassets */,
+				A9D79D782A1CD7450085E525 /* Assets.xcassets */,
 				A9D79D492A1C5F030085E525 /* Preview Content */,
 			);
 			path = FitnessPlusClone;
@@ -89,6 +114,8 @@
 			isa = PBXGroup;
 			children = (
 				A9D79D5B2A1C740F0085E525 /* SummaryView.swift */,
+				A9D79D662A1CC4440085E525 /* WorkoutView.swift */,
+				A9D79D682A1CC4670085E525 /* TrendView.swift */,
 			);
 			path = Summary;
 			sourceTree = "<group>";
@@ -96,6 +123,12 @@
 		A9D79D552A1C73C80085E525 /* FitnessPlus */ = {
 			isa = PBXGroup;
 			children = (
+				A9D79D842A1DA4E20085E525 /* Scroll4.swift */,
+				A9D79D822A1DA4D90085E525 /* Scroll3.swift */,
+				A9D79D802A1DA4D00085E525 /* Scroll2.swift */,
+				A9D79D7E2A1DA4C80085E525 /* Scroll1.swift */,
+				A9D79D7C2A1DA4BF0085E525 /* Scroll.swift */,
+				A9D79D7A2A1DA4B30085E525 /* FitnessComponent.swift */,
 				A9D79D592A1C74000085E525 /* FitnessPlusView.swift */,
 			);
 			path = FitnessPlus;
@@ -123,7 +156,6 @@
 		A9D79D5E2A1C9C110085E525 /* OnBoarding */ = {
 			isa = PBXGroup;
 			children = (
-				A9D79D612A1C9C5D0085E525 /* DailyGoal */,
 				A9D79D602A1C9C3E0085E525 /* Personalize */,
 				A9D79D5F2A1C9C360085E525 /* Welcome */,
 			);
@@ -133,6 +165,7 @@
 		A9D79D5F2A1C9C360085E525 /* Welcome */ = {
 			isa = PBXGroup;
 			children = (
+				A9D79D622A1CA5730085E525 /* WelcomeView.swift */,
 			);
 			path = Welcome;
 			sourceTree = "<group>";
@@ -140,15 +173,9 @@
 		A9D79D602A1C9C3E0085E525 /* Personalize */ = {
 			isa = PBXGroup;
 			children = (
+				A9D79D642A1CAFAB0085E525 /* PersonalizeView.swift */,
 			);
 			path = Personalize;
-			sourceTree = "<group>";
-		};
-		A9D79D612A1C9C5D0085E525 /* DailyGoal */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = DailyGoal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -167,6 +194,9 @@
 			dependencies = (
 			);
 			name = FitnessPlusClone;
+			packageProductDependencies = (
+				A9D79D8A2A1DACB30085E525 /* YouTubePlayerKit */,
+			);
 			productName = FitnessPlusClone;
 			productReference = A9D79D402A1C5F020085E525 /* FitnessPlusClone.app */;
 			productType = "com.apple.product-type.application";
@@ -195,6 +225,9 @@
 				Base,
 			);
 			mainGroup = A9D79D372A1C5F020085E525;
+			packageReferences = (
+				A9D79D892A1DACB30085E525 /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */,
+			);
 			productRefGroup = A9D79D412A1C5F020085E525 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -210,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9D79D4B2A1C5F030085E525 /* Preview Assets.xcassets in Resources */,
+				A9D79D792A1CD7450085E525 /* Assets.xcassets in Resources */,
 				A9D79D482A1C5F030085E525 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -221,12 +255,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9D79D7F2A1DA4C80085E525 /* Scroll1.swift in Sources */,
 				A9D79D462A1C5F020085E525 /* ContentView.swift in Sources */,
 				A9D79D532A1C66560085E525 /* Colors.swift in Sources */,
+				A9D79D7D2A1DA4BF0085E525 /* Scroll.swift in Sources */,
+				A9D79D7B2A1DA4B30085E525 /* FitnessComponent.swift in Sources */,
+				A9D79D692A1CC4670085E525 /* TrendView.swift in Sources */,
 				A9D79D442A1C5F020085E525 /* FitnessPlusCloneApp.swift in Sources */,
 				A9D79D5A2A1C74000085E525 /* FitnessPlusView.swift in Sources */,
+				A9D79D672A1CC4440085E525 /* WorkoutView.swift in Sources */,
+				A9D79D812A1DA4D00085E525 /* Scroll2.swift in Sources */,
 				A9D79D582A1C73EC0085E525 /* SharingView.swift in Sources */,
+				A9D79D852A1DA4E20085E525 /* Scroll4.swift in Sources */,
+				A9D79D832A1DA4D90085E525 /* Scroll3.swift in Sources */,
 				A9D79D5C2A1C740F0085E525 /* SummaryView.swift in Sources */,
+				A9D79D632A1CA5730085E525 /* WelcomeView.swift in Sources */,
+				A9D79D652A1CAFAB0085E525 /* PersonalizeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,6 +471,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A9D79D892A1DACB30085E525 /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SvenTiigi/YouTubePlayerKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A9D79D8A2A1DACB30085E525 /* YouTubePlayerKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A9D79D892A1DACB30085E525 /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */;
+			productName = YouTubePlayerKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A9D79D382A1C5F020085E525 /* Project object */;
 }
